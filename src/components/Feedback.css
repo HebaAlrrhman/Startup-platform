@@ -1,0 +1,46 @@
+main {
+    max-width: 400px;
+    margin: auto;
+    margin: 2rem;
+  }
+  
+  .replay {
+    margin: 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .header-post {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .form-replay {
+    margin-right: 10px !important;
+  }
+  
+  .avatar {
+    margin-right: 10px !important;
+  }
+  
+  button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    transition: all 0.5s;
+  }
+  
+  button:hover {
+    transform: scale(1.1);
+  }
+  
+  body {
+    height: 90vh;
+  }
+  .ReactPlayer{
+ padding-top: 20px;
+ display: flex;
+ justify-content: center;
+  }

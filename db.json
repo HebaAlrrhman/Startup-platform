@@ -1,0 +1,63 @@
+{
+  "PlatesArray": [
+
+    {
+      "id": 1  ,
+      "name": "Bashir Makhoul " ,
+      "price":2000 ,
+      "description": "It encompasses a wide range of art forms, including visual arts, music, literature, poetry, film, and performance arts.",
+      "image":"https://images.pexels.com/photos/755858/pexels-photo-755858.jpeg?auto=compress&cs=tinysrgb&w=600"
+      
+      
+    },
+
+
+    {
+      "id": 2  ,
+      "name": "Taysir Batniji " ,
+      "price":1000 ,
+      "description": "It encompasses a wide range of art forms, including visual arts, music, literature, poetry, film, and performance arts.",
+      "image":"https://images.pexels.com/photos/2964288/pexels-photo-2964288.jpeg?auto=compress&cs=tinysrgb&w=600"
+      
+      
+    },
+    {
+      "id":3   ,
+      "name": " Emily Jacir" ,
+      "price": 500,
+      "description": "It encompasses a wide range of art forms, including visual arts, music, literature, poetry, film, and performance arts.",
+      "image":"https://images.pexels.com/photos/3280524/pexels-photo-3280524.jpeg?auto=compress&cs=tinysrgb&w=600"
+      
+      
+    },
+    {
+      "id":  4 ,
+      "name": " Sliman Mansour" ,
+      "price":200 ,
+      "description": "It encompasses a wide range of art forms, including visual arts, music, literature, poetry, film, and performance arts.",
+      "image":"https://images.pexels.com/photos/1206967/pexels-photo-1206967.jpeg?auto=compress&cs=tinysrgb&w=600"
+      
+      
+    },
+    {
+      "id":5   ,
+      "name": " Rula Halawani" ,
+      "price": 500,
+      "description": "It encompasses a wide range of art forms, including visual arts, music, literature, poetry, film, and performance arts.",
+      "image":"https://images.pexels.com/photos/3401826/pexels-photo-3401826.jpeg?auto=compress&cs=tinysrgb&w=600"
+      
+      
+    },
+    {
+      "id": 6  ,
+      "name": "Larissa Sansour " ,
+      "price":300 ,
+      "description": "It encompasses a wide range of art forms, including visual arts, music, literature, poetry, film, and performance arts.",
+      "image":"https://images.pexels.com/photos/8635201/pexels-photo-8635201.jpeg?auto=compress&cs=tinysrgb&w=600"
+      
+      
+    }
+   
+  ]    
+  
+}

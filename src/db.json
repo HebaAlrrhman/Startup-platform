@@ -1,0 +1,14 @@
+{
+  "products": [
+    { "id": 1, "title": "jsss", "price": 100 },
+    { "id": 2, "title": "aa2", "price": 200},
+    { "id": 3,  "title": "server", "price": 500 },
+    { "id": 3,  "title": "jsonrver", "price": 40 },
+    { "id": 3,  "title": "json-r", "price": 550 },
+    { "id": 3,  "title": "json-ser", "price": 30 }
+    
+
+  ]
+ 
+  
+}
